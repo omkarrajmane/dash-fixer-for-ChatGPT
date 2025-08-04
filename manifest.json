@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Dash Fixer for ChatGPT",
+  "name": "Em Dash Fixer for ChatGPT",
   "version": "1.0.1",
   "description": "Replaces em dashes (—) with hyphens (-) in ChatGPT responses and adds a convenient button to copy the cleaned text.",
   "permissions": [
@@ -28,6 +28,6 @@
       "16": "icons/icon16.png",
       "48": "icons/icon48.png"
     },
-    "default_title": "Dash Fixer for ChatGPT"
+    "default_title": "Em Dash Fixer for ChatGPT"
   }
 }

@@ -1,4 +1,4 @@
-# Dash Fixer for ChatGPT
+# Em Dash Fixer for ChatGPT
 
 [![version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/omkarrajmane/dash-fixer-for-ChatGPT)
 [![license](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
@@ -18,7 +18,7 @@ Thats it! And all code is opensource for you to check - so no worring about your
 
 ## Installation
 
-You can install the Dash Fixer for ChatGPT in two ways:
+You can install the Em Dash Fixer for ChatGPT in two ways:
 
 ### 1. From the Chrome Web Store (Recommended)
 
