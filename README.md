@@ -11,7 +11,7 @@ This extension is designed for users who frequently copy text from ChatGPT but g
 
 This extension does two simple things:
 
-1.  **Live Em Dash Replacement**: Automatically finds and replaces all em dashes (`—`) with hyphens (`-`) in the assistant's responses messages as they are generated.
+1.  **Live Em Dash Replacement**: Automatically finds and replaces all em dashes (—) with hyphens (-) in the assistant's responses messages as they are generated.
 2.  **Enhanced Copying**: Adds a new "Copy without em dashes" button to each message, allowing you to copy a cleaned version of the text directly to your clipboard.
 
 Thats it! And all code is opensource for you to check - so no worring about your private data.
@@ -42,7 +42,7 @@ The extension should now be active in your browser.
 
 Once installed, the extension works automatically on the ChatGPT website no need to enable/disable anything.
 
-1.  **Automatic Replacement**: As the assistant generates a response, you will notice that any em dashes (`—`) are immediately converted to hyphens (`-`).
+1.  **Automatic Replacement**: As the assistant generates a response, you will notice that any em dashes (—) are immediately converted to hyphens (-).
 2.  **Using the Copy Button**:
     - Hover over an assistant's message to see the action buttons appear.
     - Next to the standard copy button, you will find a new icon.
