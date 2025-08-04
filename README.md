@@ -7,20 +7,6 @@ A browser extension that enhances your ChatGPT experience by automatically repla
 
 ## Overview
 
-<<<<<<< HEAD
-This extension is designed for users who frequently copy text from ChatGPT and prefer standard hyphens over em dashes. It operates seamlessly in the background, making two key improvements to the ChatGPT interface:
-
-1.  **Live Em Dash Replacement**: Automatically finds and replaces all em dashes (`—`) with hyphens (`-`) in the assistant's responses as they are generated.
-2.  **Enhanced Copying**: Adds a new "Copy without em dashes" button to each message, allowing you to copy a cleaned version of the text directly to your clipboard.
-
-## Features
-
-- **Automatic Dash Replacement**: Modifies assistant messages in real-time, replacing `—` with `-`.
-- **One-Click Clean Copy**: Adds a dedicated copy button next to the original one for copying text with hyphens.
-- **Custom Tooltips**: Provides helpful tooltips for the new copy button, indicating its function and confirming when the text has been copied.
-- **Seamless Integration**: Designed to work flawlessly with the ChatGPT UI without disrupting the user experience.
-- **Lightweight and Efficient**: Runs efficiently with a `MutationObserver` to only process new content as it appears.
-=======
 This extension is designed for users who frequently copy text from ChatGPT but get caught on the internet because users spot the em dashes and smell AI slop from a mile away. It operates seamlessly in the background, so you can stop worrying about getting caught.
 
 This extension does two simple things:
@@ -28,8 +14,14 @@ This extension does two simple things:
 1.  **Live Em Dash Replacement**: Automatically finds and replaces all em dashes (`—`) with hyphens (`-`) in the assistant's responses messages as they are generated.
 2.  **Enhanced Copying**: Adds a new "Copy without em dashes" button to each message, allowing you to copy a cleaned version of the text directly to your clipboard.
 
-Thats it! all code is opensource for you to check - no worring about your private data.
->>>>>>> a631965 (added readme n license)
+This extension is designed for users who frequently copy text from ChatGPT but get caught on the internet because users spot the em dashes and smell AI slop from a mile away. It operates seamlessly in the background, so you can stop worrying about getting caught.
+
+This extension does two simple things:
+
+1.  **Live Em Dash Replacement**: Automatically finds and replaces all em dashes (`—`) with hyphens (`-`) in the assistant's responses messages as they are generated.
+2.  **Enhanced Copying**: Adds a new "Copy without em dashes" button to each message, allowing you to copy a cleaned version of the text directly to your clipboard.
+
+Thats it! And all code is opensource for you to check - so no worring about your private data.
 
 ## Installation
 
@@ -55,11 +47,7 @@ The extension should now be active in your browser.
 
 ## How to Use
 
-<<<<<<< HEAD
-Once installed, the extension works automatically on the ChatGPT website.
-=======
 Once installed, the extension works automatically on the ChatGPT website no need to enable/disable anything.
->>>>>>> a631965 (added readme n license)
 
 1.  **Automatic Replacement**: As the assistant generates a response, you will notice that any em dashes (`—`) are immediately converted to hyphens (`-`).
 2.  **Using the Copy Button**:
@@ -67,15 +55,12 @@ Once installed, the extension works automatically on the ChatGPT website no need
     - Next to the standard copy button, you will find a new icon.
     - Hover over the new icon to see the "Copy without emdash —" tooltip.
     - Click the button to copy the message content with all em dashes already replaced. The tooltip will confirm "Copied!".
-<<<<<<< HEAD
-=======
 3.  **Using the normal Copy Button**:
     - If you use the normal copy button, it copies the original text 'with' emdashes if any.
 
 ## Icons attribution
 
 <a href="https://www.flaticon.com/free-icons/dash" title="dash icons">Dash icons created by O.moonstd - Flaticon</a>
->>>>>>> a631965 (added readme n license)
 
 ## Contributing
 
