@@ -1,6 +1,6 @@
 # Privacy Policy for Em Dash Fixer for ChatGPT
 
-**Last Updated:** October 26, 2023
+**Last Updated:** Aug 4, 2025
 
 Thank you for using "Em Dash Fixer for ChatGPT" (the "Extension"). This privacy policy is here to assure you that your data is safe because we do not collect any of it.
 
